@@ -276,7 +276,7 @@ on formuloitu monin paikoin [suositussa muodossa](https://www.agilealliance.org/
 
 Näin muotoilemalla on ajateltu, että user story kiinnittää huomion siihen, kenelle kuvattava järjestelmän toiminto tuottaa arvoa. Muoto ei oikein taivu suomenkielisiin kuvauksiin, joten sitä ei tällä kurssilla käytetä.
 
-Viime aikoina tätä tapaa muotoilla user storyt on myös ruvettu kritisoimaan muun muassa siksi, että kiinnittää liikaa huomioita siihen miten story kirjataan, itse asian eli _mistä storyssa on kysymys_ sijaan. Formaatti onkin menettämässä suosiotaan.
+Viime aikoina tätä tapaa muotoilla user storyt on myös ruvettu kritisoimaan muun muassa siksi, että se kiinnittää liikaa huomioita siihen miten story kirjataan, itse asian eli _mistä storyssa on kysymys_ sijaan. Formaatti onkin menettämässä suosiotaan.
 
 ![]({{ "/images/2-5.png" | absolute_url }}){:height="200px" }
 
